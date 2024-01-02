@@ -1,4 +1,3 @@
-a=5
-b=5
-c=a+b
-print('result =',c)
+a=input("enter your name")
+b=input("enter your age")
+print(a,'age is ',b)
